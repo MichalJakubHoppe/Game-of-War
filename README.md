@@ -1,6 +1,6 @@
 # Game of War
 
-live:
+live: https://michaljakubhoppe.github.io/Game-of-War/
 
 To play the game: 
 1. click on New Deck
